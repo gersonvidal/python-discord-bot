@@ -8,7 +8,7 @@ Si te sirvió regaláme una estrellita :) ⭐
 🇺🇸 ENG:
 This repository contains the code for the Discord bot made in Python in my TikTok tutorial, so you can study, analyze or utilize the part of the code that you need for a project of yours.
 
-If it was helpful give me a start :) ⭐
+If it was helpful give me a star :) ⭐
 
 > [!NOTE]
 > 🇪🇸 ESP: En la parte para obtener el loot del juego, tuve que hardcodear los valores ya que no encontré un atributo en la API utilizada para poder determinar cuál objeto estaba actualmente activado en el Battle Royale. Pero la lógica sería la misma más o menos que en la parte de obtener las ubicaciones de la API.
