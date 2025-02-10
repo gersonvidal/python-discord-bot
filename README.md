@@ -11,9 +11,9 @@ This repository contains the code for the Discord bot made in Python in my TikTo
 If it was helpful give me a star :) ⭐
 
 > [!NOTE]
-> 🇪🇸 ESP: En la parte para obtener el loot del juego, tuve que hardcodear los valores ya que no encontré un atributo en la API utilizada para poder determinar cuál objeto estaba actualmente activado en el Battle Royale. Pero la lógica sería la misma más o menos que en la parte de obtener las ubicaciones de la API.
+> ESP: En la parte para obtener el loot del juego, tuve que hardcodear los valores ya que no encontré un atributo en la API utilizada para poder determinar cuál objeto estaba actualmente activado en el Battle Royale. Pero la lógica sería la misma más o menos que en la parte de obtener las ubicaciones de la API.
 >
-> 🇺🇸 ENG: In the obtain game loot part, I had to hardcode the values since I didn't found an attribute in the API utilized to determine which object was currently activated in the Battle Royale. But the logic would be the same more or less as the obtain locations from the API part.
+> ENG: In the obtain game loot part, I had to hardcode the values since I didn't found an attribute in the API utilized to determine which object was currently activated in the Battle Royale. But the logic would be the same more or less as the obtain locations from the API part.
 
 ## Instalar el proyecto / Install the project
 
