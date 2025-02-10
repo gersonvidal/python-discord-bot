@@ -1,11 +1,11 @@
 # Bot de Discord en Python / Python Discord Bot
 
-🇪🇸 ESP:
+ESP:
 Este repositorio contiene el código del bot de Discord hecho en Python en mi tutorial de TikTok, para que puedan estudiarlo, analizarlo o utilizar la parte de código que necesiten para un proyecto suyo. 
 
 Si te sirvió regaláme una estrellita :) ⭐
 
-🇺🇸 ENG:
+ENG:
 This repository contains the code for the Discord bot made in Python in my TikTok tutorial, so you can study, analyze or utilize the part of the code that you need for a project of yours.
 
 If it was helpful give me a star :) ⭐
@@ -17,13 +17,13 @@ If it was helpful give me a star :) ⭐
 
 ## Instalar el proyecto / Install the project
 
-🇪🇸 ESP:
+ESP:
 
 1. Clona el repositorio 
 2. Ejecuta en la raíz del proyecto `pip install -r requirements.txt` (así no instalas las librerías una por una)
 3. Corre el proyecto desde la carpeta raíz usando `src/index.py`
 
-🇺🇸 ENG:
+ENG:
 
 1. Clone the repository
 2. Run `pip install -r requirements.txt` in the root of the project (this way, you don't have to install the libraries one by one)
